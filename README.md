@@ -48,10 +48,13 @@ This journey has made me a better and faster problem solver, and it continues to
 
 ## 🎯 Goals
 
-- Build and publish **practical, meaningful projects**  
-- Contribute to **open-source communities**  
-- Prepare for **software engineering internships**  
-- Keep improving as a **developer and problem solver**
+- Build and publish practical, meaningful projects that solve real problems  
+- Contribute to open-source communities and collaborate with other developers  
+- Prepare for and succeed in software engineering internships  
+- Keep improving as a developer, problem solver, and creative thinker  
+- Explore as many fields of Computer Science and Mathematics as possible — from algorithms and systems to AI, cryptography, and theoretical CS  
+- Learn about advanced topics like Quantum Physics and Quantum Computing out of pure curiosity and passion
+
 
 ---
 
