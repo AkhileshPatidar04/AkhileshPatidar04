@@ -2,6 +2,9 @@
 
 I am a Computer Science student with a strong foundation in **Data Structures and Algorithms**. I enjoy solving problems with logical thinking and often approach them from different, optimized perspectives.
 
+I focus on understanding the core idea of a concept — once I get it, I can implement and apply it to any problem without needing repeated practice or memorization.
+
+
 ---
 
 ## 🧑‍💻 About Me
