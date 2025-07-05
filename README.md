@@ -39,9 +39,10 @@ This journey has made me a better and faster problem solver, and it continues to
 
 ## 📚 Current Focus
 
-- Learning **OpenGL** and graphics programming  
-- Exploring **system programming** and OS-level concepts  
-- Documenting **problem-solving patterns** and building real-world tools  
+- Learning OpenGL to build a 3D GUI for a Rubik’s Cube solver — combining graphics with logic  
+- Exploring Linux (especially Ubuntu) by building a custom text editor with Vim-like navigation — to deepen my understanding of system-level development and terminal workflows  
+- Solving DSA problems daily — not just for prep, but because it genuinely excites me and sharpens my thinking
+ 
 
 ---
 
