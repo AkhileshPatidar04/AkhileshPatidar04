@@ -20,6 +20,21 @@ I enjoy understanding how things work internally and building them from scratch.
 
 ## 🔥 Featured Projects
 
+### ⚛️ Schrödinger Atom Structure Visualization
+
+**Python • Scientific Computing • Quantum Mechanics • 3D Visualization**
+
+An interactive 3D visualization tool modeling electron probability density clouds and atomic orbitals derived from the solutions to the Schrödinger wave equation.
+
+**Key areas:**
+- Quantum wavefunction mathematical modeling
+- Probability density mapping & isosurface rendering
+- Scientific computing & 3D coordinate transformations
+
+👉 [View Project](https://github.com/AkhileshPatidar04/Schr-dinger-Atom-Structure-Visualization)
+
+---
+
 ### 🗄️ MyDB — SQL Database Engine
 
 **C++ • Database Systems • Storage Engine • B+ Tree • Buffer Pool**
@@ -58,7 +73,6 @@ Built to understand low-level terminal interaction and systems programming.
 A multiplayer TCP client-server game supporting concurrent users.
 
 Explores:
-
 - Socket programming
 - TCP communication
 - Client-server architecture
