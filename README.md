@@ -1,120 +1,92 @@
 # Hi, I'm Akhilesh Patidar 👋
 
-### Software Developer | C++ | Systems | Databases | DSA
+### Systems Programmer | C++ | Databases | Networking
 
-I'm a Computer Science student at **NIT Bhopal**, interested in building software close to the system — from **database engines and storage systems to networking, operating systems, and high-performance C++ applications**.
+CS undergrad at **NIT Bhopal** (B.Tech, 2023–2027) who likes building things from scratch to understand how they work: **storage engines, network servers, and low-level Linux tooling**.
 
-I enjoy understanding how things work internally and building them from scratch.
+📫 akhileshpatidared@gmail.com · [LeetCode](YOUR_LEETCODE_URL) · [Codeforces](YOUR_CODEFORCES_URL)
+
+**Core areas:**  Concurrency and synchronization · TCP/IP and socket programming · Operating systems · Computer networks · DBMS · Intro to Machine Learning · Compiler design · CUDA / GPU programming 
 
 ---
 
 ## 🚀 What I'm Working On
 
-- 🗄️ Building a **SQL database / storage engine in C++**
-- ⚙️ Exploring **Operating Systems & Linux internals**
-- 🌐 Building **networked and concurrent applications**
-- 🧠 Solving **DSA and competitive programming problems**
-- 💻 Learning **Low-Level Design & System Design**
+- 🗄️ **MyDB**, a disk-based storage engine in C++17 (B+-Tree, buffer pool, concurrency)
+- 🔍 Reading open-source database and messaging codebases (RocksDB, DuckDB, BlazingMQ) with the goal of contributing
+- ⚙️ Operating systems and Linux internals
+- 🛠️ **Compiler design**: lexing, parsing, ASTs, and code generation
+- 🎮 **CUDA and GPU programming**: parallel kernels and memory optimization
+- 🧠 Competitive programming and DSA
 
 ---
 
 ## 🔥 Featured Projects
 
-### ⚛️ Schrödinger Atom Structure Visualization
+### 🗄️ MyDB: Storage Engine from Scratch (in progress)
 
-**Python • Scientific Computing • Quantum Mechanics • 3D Visualization**
+**C++17 • B+-Tree • Buffer Pool • Concurrency • TCP**
 
-An interactive 3D visualization tool modeling electron probability density clouds and atomic orbitals derived from the solutions to the Schrödinger wave equation.
-
-**Key areas:**
-- Quantum wavefunction mathematical modeling
-- Probability density mapping & isosurface rendering
-- Scientific computing & 3D coordinate transformations
-
-👉 [View Project](https://github.com/AkhileshPatidar04/Schr-dinger-Atom-Structure-Visualization)
-
----
-
-### 🗄️ MyDB — SQL Database Engine
-
-**C++ • Database Systems • Storage Engine • B+ Tree • Buffer Pool**
-
-A database engine implemented from scratch in C++, exploring the internals of modern database systems.
-
-**Key areas:**
-- Page-based storage
-- Buffer Pool Manager
-- Disk Manager
-- B+ Tree indexing
-- Concurrency & latching
-- Query execution
-- Database storage architecture
+- 4KB pages, variable-length records, and heap-file storage
+- Buffer pool with Clock replacement, page pinning, dirty-page tracking, and write-back caching
+- Concurrent B+-Tree insert and lookup using node-level latches
+- Multithreaded TCP server with a custom binary protocol
 
 👉 [View Project](https://github.com/AkhileshPatidar04/mydb)
 
 ---
 
-### 📝 TEL — Terminal Text Editor
+### 🌐 HTTP/1.1 Server from Scratch
 
-**C • Linux • Terminal • Systems Programming**
+**C++ • POSIX Sockets • Multithreading • OOP/RAII**
 
-A lightweight terminal text editor inspired by editors such as Vim/Nano.
+- Full TCP lifecycle (socket, bind, listen, accept, read/write) with request parsing, response generation, and file serving
+- Multithreaded client handling with synchronization and resource management
+- Separate components for sockets, parsing, request handling, and responses
 
-Built to understand low-level terminal interaction and systems programming.
-
-👉 [View Project](https://github.com/AkhileshPatidar04/TEL-Text-Editor)
-
----
-
-### 🎮 Multiplayer Tic-Tac-Toe
-
-**C • TCP/IP • Socket Programming • Concurrency**
-
-A multiplayer TCP client-server game supporting concurrent users.
-
-Explores:
-- Socket programming
-- TCP communication
-- Client-server architecture
-- Concurrent connections
-
-👉 [View Project](https://github.com/AkhileshPatidar04/Multiplayer-Tic-Tac-Toe-Game)
+👉 [View Project](ADD_HTTP_SERVER_REPO_URL)
 
 ---
 
-### 🧠 Human Activity Recognition
+### 🧠 Human Activity Recognition on Edge Hardware
 
-**Python • Machine Learning • Jupyter**
+**Python • TensorFlow • CNN-LSTM • TFLite**
 
-A machine-learning project focused on recognizing human activities from sensor data.
+- CNN-LSTM classifying 6 activities from accelerometer and gyroscope data (UCI HAR, 10,299 samples)
+- Ran 12 controlled experiments, improving test accuracy from **70.55% to 94.64%** (macro F1 0.95)
+- Quantized with TensorFlow Lite and deployed on an **Arduino Nano 33 BLE (256KB RAM)**
 
 👉 [View Project](https://github.com/AkhileshPatidar04/Human-Activity-Recognition)
 
 ---
 
+### 📝 TEL: Terminal Text Editor
+
+**C • Linux • termios • ANSI Escape Sequences**
+
+A Vim-inspired editor with raw-mode input, scrolling, search, and dynamic buffer management.
+
+👉 [View Project](https://github.com/AkhileshPatidar04/TEL-Text-Editor)
+
+---
+
+## 🏆 Competitive Programming
+
+| Platform | Highlight |
+|---|---|
+| Codeforces | Specialist, max rating **1512** |
+| LeetCode | Rating **1815**, 700+ problems solved |
+
+---
+
 ## 🛠️ Tech Stack
 
-### Languages
-
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Systems & Tools
-
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
-### Areas of Interest
-
-```text
-Data Structures & Algorithms
-Database Internals
-Storage Engines
-Operating Systems
-Computer Networks
-Concurrency
-Low-Level Design
-System Design
-C++ Programming
