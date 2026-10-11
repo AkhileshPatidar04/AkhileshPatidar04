@@ -1,8 +1,10 @@
 # Hi, I'm Akhilesh Patidar 👋
 
-### Systems Programmer | C++ | Databases | Networking
+## C++ | C | Python 
 
 CS undergrad at **NIT Bhopal** (B.Tech, 2023–2027) who likes building things from scratch to understand how they work: **storage engines, network servers, and low-level Linux tooling**.
+
+RESUME: https://drive.google.com/file/d/1Qsy4FVMvAdLiUZ1xNG4UyK9uQhp331H6/view
 
 📫 akhileshpatidared@gmail.com · [LeetCode](YOUR_LEETCODE_URL) · [Codeforces](YOUR_CODEFORCES_URL)
 
