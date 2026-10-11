@@ -17,8 +17,8 @@ RESUME: https://drive.google.com/file/d/1Qsy4FVMvAdLiUZ1xNG4UyK9uQhp331H6/view
 - 🗄️ **MyDB**, a disk-based storage engine in C++17 (B+-Tree, buffer pool, concurrency)
 - 🔍 Reading open-source database and messaging codebases (RocksDB, DuckDB, BlazingMQ) with the goal of contributing
 - ⚙️ Operating systems and Linux internals
-- 🛠️ **Compiler design**: lexing, parsing, ASTs, and code generation
-- 🎮 **CUDA and GPU programming**: parallel kernels and memory optimization
+<!--- 🛠️ **Compiler design**: lexing, parsing, ASTs, and code generation
+- 🎮 **CUDA and GPU programming**: parallel kernels and memory optimization-->
 - 🧠 Competitive programming and DSA
 
 ---
