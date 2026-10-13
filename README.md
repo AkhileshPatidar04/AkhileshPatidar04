@@ -46,7 +46,7 @@ RESUME: https://drive.google.com/file/d/1Qsy4FVMvAdLiUZ1xNG4UyK9uQhp331H6/view
 - Multithreaded client handling with synchronization and resource management
 - Separate components for sockets, parsing, request handling, and responses
 
-👉 [View Project](ADD_HTTP_SERVER_REPO_URL)
+👉 [View Project](https://github.com/AkhileshPatidar04/HTTP-server)
 
 ---
 
